@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "base_track": "Delusion:All",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2026-04-01T14:16:17.839871Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Delusion:All",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/01_Delusion_All_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ONE OK ROCK - Delusion:All [OFFICIAL MUSIC VIDEO]",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/02_ONE_OK_ROCK_-_Delusion_All_[OFFICIAL_MUSIC_VIDEO]_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Delusion:All",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/03_Delusion_All_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Delusion:All",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/04_Delusion_All_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ONE OK ROCK - Delusion:All [OFFICIAL MUSIC VIDEO]",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/05_ONE_OK_ROCK_-_Delusion_All_[OFFICIAL_MUSIC_VIDEO]_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Delusion:All",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/06_Delusion_All_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Delusion:All",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/07_Delusion_All_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Delusion:All",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Delusion_All_ONE_OK_ROCK.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Delusion:All",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/localdb_01_Delusion_All_ONE_OK_ROCK.lrc",
+      "repo_name": "TmwCl9wUrC8"
+    }
+  ]
+}
